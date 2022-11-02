@@ -93,14 +93,8 @@ You also have a choice of who you would like to include in the shared calendar, 
 
 ## Demo Photos
 
-Homepage:
+Homepage, Sign up, Login:
 ![Homepage](readme_images/homepage.png)
-
-Sign up:
-![Sign Up](readme_images/signup.png)
-
-Login:
-![Login](readme_images/Login.png)
 
 Your personal calendar:
 ![Personal Calendar](readme_images/Personal_calendar.png)
@@ -110,8 +104,8 @@ The group calendar:
 
 ## Future Improvements
 
-* Add the option to make friend requests
-*
+* friend requests
+* group event requests
 
 ## How to Run Locally
 
