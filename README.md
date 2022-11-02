@@ -48,7 +48,7 @@ You also have a choice of who you would like to include in the shared calendar, 
 
 ## Card wall
 
-< INSERT TRELLO BOARD IMAGE LATER >
+![Trello](readme_images/trello.png)
 
 ## MVP, design and planning
 
@@ -110,7 +110,7 @@ The group calendar:
 ## How to Run Locally
 
 1. Fork this repository
-2. Rename your fork to `< INSERT APP NAME HERE >`
+2. Rename your fork to `< INSERT APP NAME HERE >`c
 3. Clone your fork to your local machine
 4. Install Node.js dependencies
    ```
