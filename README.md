@@ -1,4 +1,5 @@
 # Palendar
+https://thepalendar.netlify.app/
 
 ## Contributors
 
@@ -20,29 +21,30 @@ You also have a choice of who you would like to include in the shared calendar, 
 
 ### MERN Stack
 
-- [MongoDB](https://www.mongodb.com/) | No-sql Database integrated on cloud platform Atlas.
-- [Express](https://expressjs.com/) | Web framework for Node.js (Back-end Development).
-- [React](https://reactjs.org/) | JavaScript library for building user interfaces (Front-end Development).
-- [NodeJS](https://nodejs.org/en/) | JavaScript runtime built on Chrome's V8 JavaScript engine (Back-end Development).
+- [MongoDB](https://www.mongodb.com/) | No-sql Database integrated on cloud platform Atlas
+- [Express](https://expressjs.com/) | Web framework for Node.js (Back-end Development)
+- [React](https://reactjs.org/) | JavaScript library for building user interfaces (Front-end Development)
+- [NodeJS](https://nodejs.org/en/) | JavaScript runtime built on Chrome's V8 JavaScript engine (Back-end Development)
 
 ### Notable Others
 
-- [Nodemon](https://nodemon.io/) | Reloads the server automatically.
-- [Mongoose](https://mongoosejs.com) | Models objects in MongoDB.
-- [ESLint](https://eslint.org) | Linting.
-- [Jest](https://jestjs.io/) | Testing.
-- [React Testing Library](https://testing-library.com/) | Frontend unit testing.
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | Markup language.
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) | Style sheet language.
-- [bcrypt] (https://www.npmjs.com/package/bcrypt) | User password encryption and authentication.
-- [Cypress] (https://www.cypress.io/) | end to end testing.
+- [Nodemon](https://nodemon.io/) | Reloads the server automatically
+- [Mongoose](https://mongoosejs.com) | Models objects in MongoDB
+- [ESLint](https://eslint.org) | Linting
+- [Jest](https://jestjs.io/) | Testing
+- [React Testing Library](https://testing-library.com/) | Frontend unit testing
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) | Markup language
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) | Style sheet language
+- [bcrypt] (https://www.npmjs.com/package/bcrypt) | User password encryption and authentication
+- [Cypress] (https://www.cypress.io/) | end to end testing
 
 ### Organisational & Planning Tools
 
-- [Trello](https://trello.com/en) | Kanban tool.
-- [Slack](https://slack.com/intl/en-gb/) | Communication tool.
-- [Miro](https://miro.com/) | Diagramming tool.
-- [Balsamiq](https://balsamiq.com/) | Wireframing tool.
+- [Trello](https://trello.com/en) | Kanban tool
+- [Slack](https://slack.com/intl/en-gb/) | Communication tool
+- [Miro](https://miro.com/) | Diagramming tool
+- [Balsamiq](https://balsamiq.com/) | Wireframing tool
+
 
 ## Card wall
 
@@ -72,35 +74,49 @@ You also have a choice of who you would like to include in the shared calendar, 
 
 ## Team Approach
 
-- Agile Development.
-- TDD.
-- Early project planning.
-- MVP.
-- Regular check-in with team members for blockers.
+- Agile Development
+- TDD
+- Early project planning
+- MVP
+- Regular check-in with team members for blockers
 
 ### Work hours
 
-* Start time 9:45am.
-* Lunch 12:30pm - 1:30pm.
-* End day 6:00pm.
+* Start time 9:45am
+* Lunch 12:30pm - 1:30pm
+* End day 6:00pm
 
 ### Daily stand ups and retros.
 
-* Stand ups. 9:45am -10:00am.
-* Retro. 5:30pm.
+* Stand ups. 9:45am -10:00am
+* Retro. 5:30pm
 
 ## Demo Photos
 
-< INSERT DEMO PHOTOS AND VIDEO >
+Homepage:
+![Homepage](readme_images/homepage.png)
+
+Sign up:
+![Sign Up](readme_images/signup.png)
+
+Login:
+![Login](readme_images/Login.png)
+
+Your personal calendar:
+![Personal Calendar](readme_images/Personal_calendar.png)
+
+The group calendar:
+![Group Calendar](readme_images/Group_calendar.png)
 
 ## Future Improvements
 
-< MAKE THIS APP >
+* Add the option to make friend requests
+*
 
 ## How to Run Locally
 
 1. Fork this repository
-2. Rename your fork to `Palendar`
+2. Rename your fork to `< INSERT APP NAME HERE >`
 3. Clone your fork to your local machine
 4. Install Node.js dependencies
    ```
@@ -111,11 +127,11 @@ You also have a choice of who you would like to include in the shared calendar, 
 ### Start Server
 
 ```
-cd backend
+cd server
 npm start
 ```
 
-Please leave this terminal running in the background.
+Leave this terminal running in the background.
 
 ### Start Client
 
@@ -126,7 +142,7 @@ cd client
 npm start
 ```
 
-Please leave this terminal running in the background, the application should open automatically.
+Once again leave this terminal running in the background, the application should open automatically.
 
 ### Test
 
